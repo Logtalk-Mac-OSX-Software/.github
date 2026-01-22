@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://dl2.macupdate.com/images/icons256/39187.png?time=1651598704" width="200" alt="Logtalk application icon"><br>
-<a href="https://mac-share-apps.github.io/.github/logtalk">
+<a href="https://ysids-apps-hub.github.io/.github/logtalk">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Logtalk macOS product page">
 </a><br><br>
 <div align="center">
